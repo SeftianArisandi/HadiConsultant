@@ -1,0 +1,17 @@
+export const dummyEducation = [
+    { key: 'SD1', name: "Kelas 1", type: "SD" },
+    { key: 'SD2', name: "Kelas 2", type: "SD" },
+    { key: 'SD3', name: "Kelas 3", type: "SD" },
+    { key: 'SD4', name: "Kelas 4", type: "SD" },
+    { key: 'SD5', name: "Kelas 5", type: "SD" },
+    { key: 'SD6', name: "Kelas 6", type: "SD" },
+    { key: 'SMP7', name: "Kelas 7", type: "SMP"},
+    { key: 'SMP8', name: "Kelas 8", type: "SMP"},
+    { key: 'SMP9', name: "Kelas 9", type: "SMP"},
+    { key: 'SMA10IPA', name: "Kelas 10 IPA", type: "SMA" },
+    { key: 'SMA11IPA', name: "Kelas 11 IPA", type: "SMA" },
+    { key: 'SMA12IPA', name: "Kelas 12 IPA", type: "SMA" },
+    { key: 'SMA10IPS', name: "Kelas 10 IPS", type: "SMA" },
+    { key: 'SMA11IPS', name: "Kelas 11 IPS", type: "SMA" },
+    { key: 'SMA12IPS', name: "Kelas 12 IPS", type: "SMA" },
+]
